@@ -9,7 +9,7 @@
             Role: Developer || Maintenance
  
  #
-    ◘ Second Project - Develop College Website with admin panel using Laravel Modern PHP FrameWork (05/2022 to 12/2022) 
+    ◘ Second Project - Develop College Website with admin panel using Laravel PHP FrameWork (05/2022 to 12/2022) 
            Website that will deliver an application with admin panel for my college as they
       really looking for reliable working website. So we plan to using Laravel an modern technology
       which will deliver an application easily with simple commands that will automatically deliver 
