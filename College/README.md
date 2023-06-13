@@ -21,13 +21,17 @@
      Every Co-ordinaters and HOD/Staff in the college can access and release updates easily...
      
 # Output 
+
        Here I am gonna share some main view of this application which gives an over view of my working
        in the project and deliver some output below...!
        
+       
 # Home Page
+
 
     This is sample frontend view of our college webpage...! As per the plan we design around 8 pages for 
     each menu to load and display the content to the user.
+    
 
 <div>
 <img width="960" alt="Home" src="https://github.com/NithinU2802/Website-Projects/assets/106614289/9af31d50-33ba-4629-b1d0-b48fadc517a7">
@@ -44,7 +48,9 @@
 <img width="960" alt="Admin" src="https://github.com/NithinU2802/Website-Projects/assets/106614289/8f2fb429-d0b3-487d-bb56-a17b4fb306ad">
 </div>
 
+
     Further Here is an another page which show that the detail need to be show in the website...!
+    
 
 <div>
     <img width="957" alt="Admin1" src="https://github.com/NithinU2802/Website-Projects/assets/106614289/d44bd88c-a123-4737-8dbf-12f87593e9bb">
@@ -53,8 +59,8 @@
     
 # DataBase
   
-    Database to load the content and also used to deliver content to the webpage...! As it handle both admin and website data also will
-    deliver a smooth finish to the user.
+    Database to load the content and also used to deliver content to the webpage...! As it handle both admin
+    and website data also will deliver a smooth finish to the user.
     
 <div>
     <img width="960" alt="Database" src="https://github.com/NithinU2802/Website-Projects/assets/106614289/6385fa66-3f8d-4983-8241-44630d84be89">
